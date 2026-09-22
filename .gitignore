@@ -1,0 +1,16 @@
+# Build-resultat
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+
+# Lokala databasfiler 
+*.mdf
+*.ldf
+
+# OS-specifikt skräp
+.DS_Store
+Thumbs.db

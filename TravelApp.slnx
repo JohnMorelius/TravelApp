@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Appconsole/Appconsole.csproj" />
+  <Project Path="Configuration/Configuration.csproj" />
+  <Project Path="DbRepos/DbRepos.csproj" />
+  <Project Path="Models/Models.csproj" />
+  <Project Path="MyWebApi/MyWebApi.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>
